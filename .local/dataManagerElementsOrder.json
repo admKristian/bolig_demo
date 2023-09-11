@@ -1,0 +1,39 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_Data&Sequence_1",
+        "fileExists&Sequence_1",
+        "søkEncoded&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_søk",
+        "in_URL"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Finn_GetAppartmentInfo.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "URL&Sequence_2",
+        "dt_priser&Sequence_1",
+        "Adresse&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
